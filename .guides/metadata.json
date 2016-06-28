@@ -1,0 +1,29 @@
+{
+ "sections": [
+  {
+   "id": "a060a55a-d2a1-6641-07c3-edad39515927",
+   "title": "Introduction",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-a060.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7d761c41-a759-9dbe-8795-2b4215abe784",
+   "title": "Section 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Section-2-7d76.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

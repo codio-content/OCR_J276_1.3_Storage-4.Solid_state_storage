@@ -1,0 +1,3 @@
+Data is stored directly onto microchips and there are no moving parts involved in writing or reading data, unlike optical and magnetic storage – this explains the name solid state.  It also ensures that the technology is more durable than the other two types of storage.  It is a form of flash memory and is non-volatile.  It has become the main internal storage for tablet computers.  
+
+Some users install a SSD into a computer as an addition to a magnetic HDD.

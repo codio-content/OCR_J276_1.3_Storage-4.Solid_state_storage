@@ -1,0 +1,1 @@
+Solid storage advantages include overall fast speed of access, portability and reliability. Its main disadvantages are its limited capacity, its limited read/write cycle and its cost. 

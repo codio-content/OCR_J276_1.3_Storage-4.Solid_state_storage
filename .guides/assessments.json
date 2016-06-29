@@ -1,0 +1,342 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1971932718",
+  "source": {
+   "name": "Question 1: Which one the following is the most suitable to save a very large collection of films to?",
+   "showName": false,
+   "instructions": "**Question 1: Which one the following is the most suitable to save a very large collection of films to?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Magnetic tape",
+     "correct": false,
+     "_id": "a6c52752-d28e-cce5-b399-d827ae58628b"
+    },
+    {
+     "answer": "CD-ROM",
+     "correct": false,
+     "_id": "c9988cce-a7a9-8a99-169c-a3cab062cba5"
+    },
+    {
+     "correct": true,
+     "answer": "Solid state drive",
+     "_id": "91fbe15d-761e-45f3-6c9b-08ce2251c233"
+    },
+    {
+     "answer": "DVD-ROM",
+     "correct": false,
+     "_id": "f6cbf1ed-9bdb-cde5-c2e5-cd86f7be251e"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3218154615",
+  "source": {
+   "name": "Question 2: Which two of the following are types of solid state storage media?",
+   "showName": false,
+   "instructions": "**Question 2: Which two of the following are types of solid state storage media?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "SDD",
+     "_id": "c1c9b39b-e465-9e45-35d8-37451d73838c"
+    },
+    {
+     "answer": "HDD",
+     "correct": false,
+     "_id": "2e7263c3-a61b-a40d-14a0-7e179e9c20cd"
+    },
+    {
+     "correct": true,
+     "answer": "Memory stick",
+     "_id": "e9a05d66-18fa-bf7b-358b-05996c1bc290"
+    },
+    {
+     "answer": "Blu-ray",
+     "correct": false,
+     "_id": "fc00bed9-3474-165d-693f-1a40cd40394b"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3394795880",
+  "source": {
+   "name": "Question 3: Which one of the following has the largest storage capacity?",
+   "showName": false,
+   "instructions": "**Question 3: Which one of the following has the largest storage capacity?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Blu-ray",
+     "correct": false,
+     "_id": "f3e1967b-36de-db08-eaa8-9d98520996b7"
+    },
+    {
+     "answer": "Memory card",
+     "correct": false,
+     "_id": "c3b44061-c49b-04c4-abfd-e4e7875964ac"
+    },
+    {
+     "correct": true,
+     "answer": "Solid state drive",
+     "_id": "a560f62d-6185-dd2b-63ea-3be4e6626493"
+    },
+    {
+     "answer": "Memory stick",
+     "correct": false,
+     "_id": "ad3727e2-f4db-3480-f18b-393f67e1d9bd"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-494207983",
+  "source": {
+   "name": "Question 4: Which two of the following are advantages of solid state storage?",
+   "showName": false,
+   "instructions": "**Question 4: Which two of the following are advantages of solid state storage?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "answer": "Density",
+     "correct": false,
+     "_id": "f7ce02bc-c6aa-b384-aaaf-5b77a1f4eefa"
+    },
+    {
+     "correct": true,
+     "answer": "Portability",
+     "_id": "d993e946-72b2-5c11-5eee-cc22a80e7d90"
+    },
+    {
+     "correct": true,
+     "answer": "Reliability",
+     "_id": "f752043f-ee8d-95c2-3428-e19ff3dc85c0"
+    },
+    {
+     "answer": "Read/write cycle",
+     "correct": false,
+     "_id": "694f879d-b665-aa30-f6ca-739534cdde27"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2861084872",
+  "source": {
+   "name": "Question 5: Which two of the following are disadvantages of solid state storage?",
+   "showName": false,
+   "instructions": "**Question 5: Which two of the following are disadvantages of solid state storage?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "Limited read/write cycle",
+     "_id": "e248a1b1-58a0-3999-89a5-b5e5ae405194"
+    },
+    {
+     "answer": "Density",
+     "correct": false,
+     "_id": "1c1eeb1b-71bb-2bd9-e1eb-cf994ee7b6a2"
+    },
+    {
+     "answer": "Portability",
+     "correct": false,
+     "_id": "e1abbf94-5aee-3cbc-8f33-2e91dc81224a"
+    },
+    {
+     "correct": true,
+     "answer": "Capacity",
+     "_id": "ed6a8882-90de-7fca-0bad-8a7326065b71"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1578260941",
+  "source": {
+   "name": "Question 6: Which one of the following statements is true?",
+   "showName": false,
+   "instructions": "**Question 6: Which one of the following statements is true?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Solid state storage is less expensive optical storage",
+     "correct": false,
+     "_id": "3f4aa7fa-8111-fe0d-bc6d-b26410b25274"
+    },
+    {
+     "correct": true,
+     "answer": "Solid state storage is more expensive than other storage types",
+     "_id": "0fcbc3ca-8842-0232-8492-5dd57b14f316"
+    },
+    {
+     "answer": "Solid state storage is less expensive than other storage types",
+     "correct": false,
+     "_id": "cc80eeac-194e-b737-ce0c-a6f7fa31439d"
+    },
+    {
+     "answer": "Solid state storage is less expensive than magnetic storage",
+     "correct": false,
+     "_id": "3bce00c9-e0a7-ac68-4901-67e8e0536bb1"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1628141161",
+  "source": {
+   "name": "Question 7: Which one of the following statements is false?",
+   "showName": false,
+   "instructions": "**Question 7: Which one of the following statements is false?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Solid state storage media can be easily lost or stolen",
+     "correct": false,
+     "_id": "a17a5b87-1dfe-ff2b-cf43-fd781a2c4eda"
+    },
+    {
+     "answer": "Solid state storage media are durable",
+     "correct": false,
+     "_id": "4422246e-a932-e70a-3d01-98cc4b109c0c"
+    },
+    {
+     "correct": true,
+     "answer": "Solid state storage media are not suited to mobile devices",
+     "_id": "fdcd31d3-a0c3-c5a8-5923-a82745ba474f"
+    },
+    {
+     "answer": "Solid state storage media use less power",
+     "correct": false,
+     "_id": "aa7dcf3b-f350-47c0-3c5b-f801206e7285"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2402486306",
+  "source": {
+   "name": "Question 8: Which two of the following statements are true?",
+   "showName": false,
+   "instructions": "**Question 8: Which two of the following statements are true?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "answer": "A solid state disk can store up to 1MB",
+     "correct": false,
+     "_id": "fa576310-3d10-1e92-a642-9bd94d82ceb8"
+    },
+    {
+     "correct": true,
+     "answer": "A solid state disk can store up to 1TB ",
+     "_id": "0a44fc44-0a20-2d22-b9cb-82be5499354d"
+    },
+    {
+     "correct": true,
+     "answer": "A memory card can store up to 128GB",
+     "_id": "bf6bee3c-3363-47e8-eccb-db1f50e33328"
+    },
+    {
+     "answer": "A memory card can store up to 1TB",
+     "correct": false,
+     "_id": "5bd7223a-15b0-e491-31ec-0760df574e6e"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-260456434",
+  "source": {
+   "name": "Question 9: Which two of the following are not examples of solid state storage?",
+   "showName": false,
+   "instructions": "**Question 9: Which two of the following are not examples of solid state storage?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "answer": "Flash drive",
+     "correct": false,
+     "_id": "474bb548-4ce7-53f4-e793-4c40ab82463a"
+    },
+    {
+     "correct": true,
+     "answer": "NAS",
+     "_id": "0e1d85df-1fe8-89e1-ce95-c58b3b80b104"
+    },
+    {
+     "answer": "SSD",
+     "correct": false,
+     "_id": "44c0b538-fe4b-143d-ffa8-732b038623cc"
+    },
+    {
+     "correct": true,
+     "answer": "Blu-ray",
+     "_id": "85eef912-486a-4785-813f-8a4517f86e7e"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3257179753",
+  "source": {
+   "name": "Question 10: Which one of the following is the best to use in a camcorder?",
+   "showName": false,
+   "instructions": "**Question 10: Which one of the following is the best to use in a camcorder?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Memory stick",
+     "correct": false,
+     "_id": "505e4c8e-1d66-5cb4-7aea-3fa1cc36902b"
+    },
+    {
+     "answer": "Memory disk",
+     "correct": false,
+     "_id": "3c0ccab7-8ce6-f1c9-2c38-3519093c73ac"
+    },
+    {
+     "correct": true,
+     "answer": "Memory card",
+     "_id": "8bf20234-1c9a-a616-24af-233d4bfbad79"
+    },
+    {
+     "answer": "Memory drive",
+     "correct": false,
+     "_id": "ac6f57a8-cd2d-d2a1-7ccf-2b723a2c4450"
+    }
+   ]
+  }
+ }
+]

@@ -239,68 +239,34 @@
  },
  {
   "type": "multiple-choice",
-  "taskId": "multiple-choice-2402486306",
-  "source": {
-   "name": "Question 8: Which two of the following statements are true?",
-   "showName": false,
-   "instructions": "**Question 8: Which two of the following statements are true?**",
-   "points": "1",
-   "incorrectPoints": "0",
-   "multipleResponse": true,
-   "answers": [
-    {
-     "answer": "A solid state disk can store up to 1MB",
-     "correct": false,
-     "_id": "fa576310-3d10-1e92-a642-9bd94d82ceb8"
-    },
-    {
-     "correct": true,
-     "answer": "A solid state disk can store up to 1TB ",
-     "_id": "0a44fc44-0a20-2d22-b9cb-82be5499354d"
-    },
-    {
-     "correct": true,
-     "answer": "A memory card can store up to 128GB",
-     "_id": "bf6bee3c-3363-47e8-eccb-db1f50e33328"
-    },
-    {
-     "answer": "A memory card can store up to 1TB",
-     "correct": false,
-     "_id": "5bd7223a-15b0-e491-31ec-0760df574e6e"
-    }
-   ]
-  }
- },
- {
-  "type": "multiple-choice",
   "taskId": "multiple-choice-260456434",
   "source": {
-   "name": "Question 9: Which two of the following are not examples of solid state storage?",
+   "name": "Question 8: Which two of the following are not examples of solid state storage?",
    "showName": false,
-   "instructions": "**Question 9: Which two of the following are not examples of solid state storage?**",
+   "instructions": "**Question 8: Which two of the following are not examples of solid state storage?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
    "answers": [
     {
-     "answer": "Flash drive",
+     "_id": "474bb548-4ce7-53f4-e793-4c40ab82463a",
      "correct": false,
-     "_id": "474bb548-4ce7-53f4-e793-4c40ab82463a"
+     "answer": "Flash drive"
     },
     {
+     "_id": "0e1d85df-1fe8-89e1-ce95-c58b3b80b104",
      "correct": true,
-     "answer": "NAS",
-     "_id": "0e1d85df-1fe8-89e1-ce95-c58b3b80b104"
+     "answer": "NAS"
     },
     {
-     "answer": "SSD",
+     "_id": "44c0b538-fe4b-143d-ffa8-732b038623cc",
      "correct": false,
-     "_id": "44c0b538-fe4b-143d-ffa8-732b038623cc"
+     "answer": "SSD"
     },
     {
+     "_id": "85eef912-486a-4785-813f-8a4517f86e7e",
      "correct": true,
-     "answer": "Blu-ray",
-     "_id": "85eef912-486a-4785-813f-8a4517f86e7e"
+     "answer": "Blu-ray"
     }
    ]
   }
@@ -309,32 +275,32 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3257179753",
   "source": {
-   "name": "Question 10: Which one of the following is the best to use in a camcorder?",
+   "name": "Question 9: Which one of the following is the best to use in a camcorder?",
    "showName": false,
-   "instructions": "**Question 10: Which one of the following is the best to use in a camcorder?**",
+   "instructions": "**Question 9: Which one of the following is the best to use in a camcorder?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
    "answers": [
     {
-     "answer": "Memory stick",
+     "_id": "505e4c8e-1d66-5cb4-7aea-3fa1cc36902b",
      "correct": false,
-     "_id": "505e4c8e-1d66-5cb4-7aea-3fa1cc36902b"
+     "answer": "Memory stick"
     },
     {
-     "answer": "Memory disk",
+     "_id": "3c0ccab7-8ce6-f1c9-2c38-3519093c73ac",
      "correct": false,
-     "_id": "3c0ccab7-8ce6-f1c9-2c38-3519093c73ac"
+     "answer": "Memory disk"
     },
     {
+     "_id": "8bf20234-1c9a-a616-24af-233d4bfbad79",
      "correct": true,
-     "answer": "Memory card",
-     "_id": "8bf20234-1c9a-a616-24af-233d4bfbad79"
+     "answer": "Memory card"
     },
     {
-     "answer": "Memory drive",
+     "_id": "ac6f57a8-cd2d-d2a1-7ccf-2b723a2c4450",
      "correct": false,
-     "_id": "ac6f57a8-cd2d-d2a1-7ccf-2b723a2c4450"
+     "answer": "Memory drive"
     }
    ]
   }

@@ -40,11 +40,7 @@ Solid state storage is more expensive than other storage types
 
 Solid state storage media are not suited to mobile devices
 |||
-{Check It!|assessment}(multiple-choice-2402486306)
-|||guidance
-# Solution
 
-A solid state disk can store up to 1TB and A memory card can store up to 128GB
 
 |||
 {Check It!|assessment}(multiple-choice-260456434)
